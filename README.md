@@ -120,6 +120,22 @@ Focused on solving complex problems and building efficient, intelligent systems.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
+<br>
+
+## LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/swagatobauri?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%" height="2" />
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
 
 ### GitHub Statistics
@@ -129,14 +145,10 @@ Focused on solving complex problems and building efficient, intelligent systems.
     <img src="https://github-readme-stats.vercel.app/api?username=swagatobauri&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" width="48%"/>
   </a>
   <a href="https://github.com/swagatobauri/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatobauri&theme=highcontrast&hide_border=true" width="48%"/>
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatobauri&theme=synthwave-84&hide_border=true" width="100%"/>
-</div>
 
 <br>
 
@@ -155,20 +167,7 @@ Focused on solving complex problems and building efficient, intelligent systems.
 
 <br>
 
-## LeetCode Stats
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/swagatobauri?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats"/>
-</div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%" height="2" />
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
 
 ### 🎭 Other Creative Interests
 -**Photography |  **Cinematography** 
