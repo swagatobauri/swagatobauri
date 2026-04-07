@@ -120,10 +120,9 @@ Focused on solving complex problems and building efficient, intelligent systems.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-### 🎭 Other Creative Interests
--**Photography |  **Cinematography** 
-- **Indian Classical Flutist**
 
+
+### GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/swagatobauri/github-readme-stats">
@@ -142,9 +141,6 @@ Focused on solving complex problems and building efficient, intelligent systems.
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatobauri&layout=compact&theme=highcontrast&hide_border=true" width="50%"/>
-</div>
 
 <h1 align="left"> Competitive Programming & Coding Profiles</h1>
 
@@ -174,6 +170,10 @@ Focused on solving complex problems and building efficient, intelligent systems.
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
+
+### 🎭 Other Creative Interests
+-**Photography |  **Cinematography** 
+- **Indian Classical Flutist**
 
 <h2 align="center">Thank You for Visiting! 🫶</h2>
 
