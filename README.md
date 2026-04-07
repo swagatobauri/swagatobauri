@@ -124,32 +124,6 @@ Focused on solving complex problems and building efficient, intelligent systems.
 -**Photography |  **Cinematography** 
 - **Indian Classical Flutist**
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h1 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> Featured Projects</h1>
-
-<div align="center">
-
-### 🏠 [InVestate](https://github.com/swagatobauri/InVestate)
-*Real Estate Asset Management Platform*
-- Built with **Next.js** for modern web development
-- Provides real-time data and ROI insights for property investors
-- Intelligent dashboard for portfolio management
-
-### 🤖 [MyGPT](https://github.com/swagatobauri/MyGPT)  
-*ChatGPT-Inspired Web Application*
-- Developed using **React** and **OpenAI API**
-- Enables real-time conversational AI interactions
-- Dynamic and user-friendly chat interface
-
-### 🎓 [Capstone Project](https://github.com/swagatobauri/Capstone)
-*College WebDev Skills Enhancement Project*
-- Comprehensive web development project
-- Built to showcase and improve full-stack capabilities
-
-</div> -->
-
-<h1 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Statistics</h1>
 
 <div align="center">
   <a href="https://github.com/swagatobauri/github-readme-stats">
