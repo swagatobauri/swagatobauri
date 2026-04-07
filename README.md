@@ -16,15 +16,15 @@
 <img align='right' src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="280" height="380" />
 
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45"> About Me</h1>
+BTech CSE (AI) student with a strong focus on Data Structures & Algorithms and AI Agent development.  
+Focused on solving complex problems and building efficient, intelligent systems.
 
-- 👨‍💻 BTech Computer Science-AI '28 student at **Newton School of Technology**
-- 🚀 Full-Stack Web Developer passionate about creating impactful digital solutions
-- 🤖 Robotics Enthusiast exploring the intersection of AI and hardware
-- 🎸 Lead Guitarist with **10+ years** of musical experience
-- 🏆 Former **Vice President** of Robotics Club at NST
-- ⚡ **Tech Team Member** at Society for Aerospace and Space Technology (SAST)
-- 🎵 **Band Leader** at Saarang (RU Music Club)
-- 💡 Always eager to learn new technologies and solve challenging problems
+- 💻 Strong foundation in Data Structures & Algorithms (DSA)  
+- 🤖 Building AI Agents and working on applied AI systems  
+- 🧠 Problem solving with emphasis on optimization and clean code  
+- 🚀 Developing performance-oriented and scalable solutions  
+- ⚡ Consistent, disciplined, and hands-on with learning  
+- 🎯 Goal: Build high-impact intelligent software systems  
 
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="38"> Skills & Expertise</h1>
 
@@ -35,29 +35,34 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### 🚀 Frontend Development
+---
+
+### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=blue)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+---
 
 ### ⚙️ Backend Development  
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=rest&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
-- Authentication (JWT)  
-- Role-Based Access Control (RBAC)  
-- API Architecture (Controllers • Services • Middleware)  
+- REST API Design  
+- Authentication (JWT) & Authorization (RBAC)  
+- Scalable API Architecture (Controllers • Services • Middleware)  
 - Async Workflows & Error Handling  
 - Third-Party Integrations (Payments • Storage • Email)  
 - Deployment (Vercel • Render)  
+
+---
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
@@ -65,44 +70,43 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 
-- Prisma ORM  
+- ORM: Prisma  
 - Schema Design & Data Modeling  
 - Query Optimization  
 
+---
+
 ### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
 
-- RAG (Retrieval-Augmented Generation)  
-- Embeddings & Vector Databases (LanceDB)  
-- LLM API Integration  
-- Machine Learning (Regression • Classification • Decision Trees • Neural Networks)  
-- Model Evaluation Metrics  
+- AI Agent Development (RAG • LLM Integration)  
+- Embeddings & Vector Databases  
+- Machine Learning (Regression • Classification • Neural Networks)  
+- Model Evaluation & Optimization  
 
-### 📊 Data & Analytics
-- Excel Dashboards  
-- Pivot Tables & KPI Tracking  
-- Data Analysis & Visualization  
+---
 
 ### 🛠️ Tools & Libraries
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+
+---
 
 ### 💡 Core Concepts
-- Object-Oriented Programming (OOP)  
 - Data Structures & Algorithms (500+ Problems Solved)  
+- Object-Oriented Programming (OOP)  
 - System Design & Scalability  
-- API Design & Integration  
 - Clean Architecture  
 - Performance Optimization  
-- Responsive Design & UI/UX  
-## 🎨 Creative + Strategic Skills
+- API Design & Integration  
+- Responsive UI & UX  
 
 ### 🎬 Design & Content Creation
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
@@ -111,17 +115,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-### 📝 Content & Storytelling
-- **YouTube Scripting** | **Filmmaking** | **Creative Writing**
-- **Social Media Strategy** | **Content Planning**
-
-### 🎯 Leadership & Management
-- **Vice-President** @Robotics Club | **Event Organization**
-- **Team Leadership** | **Project Management**
-
 ### 🎭 Other Creative Interests
 - **Cinematography** | **Photography** 
-- **Music Production** | **Lead Guitar** (10+ years experience)
+- **Indian Classical Flutist**
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
