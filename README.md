@@ -127,14 +127,6 @@ Focused on solving complex problems and building efficient, intelligent systems.
 
 <div align="center">
   <a href="https://github.com/swagatobauri/github-readme-stats">
-    <img src="https://github-profile-trophy.vercel.app/?username=swagatobauri&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/swagatobauri/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=swagatobauri&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" width="48%"/>
   </a>
   <a href="https://github.com/swagatobauri/github-readme-streak-stats">
