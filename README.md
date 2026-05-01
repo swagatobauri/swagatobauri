@@ -1,184 +1,158 @@
-<h2 align="center">Swagato Bauri</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/swagatobauri/" target="_blank">LinkedIn</a> •
-  <a href="mailto:swagato731123@gmail.com">Email</a> •
-  <a href="https://leetcode.com/u/swagatobauri/" target="_blank">LeetCode</a> •
-  <a href="https://codeforces.com/profile/arko_2025" target="_blank">Codeforces</a> •
-  <a href="https://www.hackerrank.com/profile/swagato731123" target="_blank">HackerRank</a>
-</p>
-<p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=swagatobauri&style=for-the-badge" alt="Swagato's Profile Views" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<img align='right' src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="280" height="380" />
-
-<h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45"> About Me</h1>
-BTech CSE (AI) student with a strong focus on Data Structures & Algorithms and AI Agent development.  
-Focused on solving complex problems and building efficient, intelligent systems.
-
-- Strong foundation in Data Structures & Algorithms (DSA)  
-- Building AI Agents and working on applied AI systems  
-- Problem solving with emphasis on optimization and clean code  
-- Developing performance-oriented and scalable solutions  
-- Consistent, disciplined, and hands-on with learning  
-- Goal: Build high-impact intelligent software systems  
-
-<h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="38"> Skills & Expertise</h1>
-
-## 🧠 Technical Skills
-
-### 💻 Programming Languages  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
-
----
-
-### 🌐 Frontend Development  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
-![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=blue)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-
----
-
-### ⚙️ Backend Development  
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)  
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)  
-
-- REST API Design  
-- Authentication (JWT) and Authorization (RBAC)  
-- Scalable API Architecture (Controllers Services Middleware)  
-- Async Workflows and Error Handling  
-- Third Party Integrations (Payments Storage Email)  
-- Deployment (Vercel Render)  
-
----
-
-### 🗄️ Databases  
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat&logo=data&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)  
-
-- ORM Prisma  
-- Schema Design and Data Modeling  
-- Query Optimization  
-
----
-
-### 🤖 AI and ML  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)  
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)  
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat)  
-![LLM](https://img.shields.io/badge/LLM-4B8BBE?style=flat)  
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat)  
-
-- AI Agent Development (LangChain LangGraph RAG LLM Integration)  
-- Multi Agent Systems and Tool Orchestration  
-- Embeddings and Vector Databases  
-- Machine Learning (Regression Classification Neural Networks)  
-- Model Evaluation and Optimization  
-
----
-
-### 🛠️ Tools and Libraries  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  
-
----
-
-
-### 💡 Core Concepts
-- Data Structures & Algorithms (500+ Problems Solved)  
-- Object-Oriented Programming (OOP)  
-- System Design & Scalability  
-- Clean Architecture  
-- Performance Optimization  
-- API Design & Integration  
-- Responsive UI & UX  
-
-### 🎬 Design & Content Creation
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat&logo=davinci-resolve&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-<br>
-
-## LeetCode Stats
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/swagatobauri?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%" height="2" />
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-
-### GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/swagatobauri/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=swagatobauri&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" width="48%"/>
-  </a>
-  <a href="https://github.com/swagatobauri/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatobauri&theme=highcontrast&hide_border=true" width="48%"/>
-  </a>
-</div>
-
-
-<br>
-
-
-<h1 align="left"> Competitive Programming & Coding Profiles</h1>
-
 <div align="center">
 
-| Platform | Profile | Badge |
-|----------|---------|-------|
-| 🟠 **LeetCode** | [@swagatobauri](https://leetcode.com/u/swagatobauri/) | [![LeetCode](https://img.shields.io/badge/LeetCode-Active-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/swagatobauri/) |
-| 🔴 **Codeforces** | [@swagatobauri](https://codeforces.com/profile/swagatobauri/) | [![Codeforces](https://img.shields.io/badge/Codeforces-Active-red?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/swagatobauri/) |
-| 🟢 **HackerRank** | [@swagatobauri](https://www.hackerrank.com/profile/swagatobauri) | [![HackerRank](https://img.shields.io/badge/HackerRank-Active-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/swagatobauri) |
+# Swagato Bauri
+
+**Agentic AI Engineer | Full-Stack Developer | Open Source Contributor**
+
+Building autonomous systems that think, reason, and act.  
+Currently contributing to **CNCF security & observability projects**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swagatobauri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swagatobauri)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/swagatobauri/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swagato731123@gmail.com)
 
 </div>
 
-<br>
+---
 
+## Current Focus (May 2026)
 
+**Preparing for LFX Mentorship Fall 2026**  
+  Contributing to **[Falco](https://github.com/falcosecurity/falco)** - Runtime Security for Cloud-Native  
+  Building production-grade AI agents and distributed systems  
+  Deep-diving into **Go** for cloud-native development
 
-### 🎭 Other Creative Interests
--**Photography |  **Cinematography** 
-- **Indian Classical Flutist**
+---
 
-<h2 align="center">Thank You for Visiting! 🫶</h2>
+## 🚀 Featured Projects
+
+### [TARS - Threat Analysis & Response System](https://github.com/swagatobauri/tars)
+**Autonomous cybersecurity agent** that detects and responds to threats in milliseconds.
+
+- 7-stage closed-loop defense pipeline (Observe → Analyze → Reason → Decide → Act → Learn → Validate)
+- Confidence-gated execution engine (Shadow, Human-Approval, Autonomous modes)
+- 87-100% detection rate across all attack vectors
+- Tech: FastAPI, Celery, Redis, Isolation Forest, One-Class SVM, Groq LLM
+
+### [ULTRON - Multi-Agent Content System](https://github.com/swagatobauri/ultron)
+**6-node AI agent DAG** with real-time streaming and self-healing revision loops.
+
+- LangGraph StateGraph with conditional routing
+- Non-blocking SSE streaming to frontend
+- Self-healing Critic ↔ Creator revision loop
+- Google Search API integration for grounded outputs
+- Tech: LangGraph, Flask, TypedDict, Python Queue
+
+---
+
+## 🌱 Open Source Journey
+
+**Goal:** Contribute to CNCF projects and become an LFX Mentee
+
+### Contribution Tracker (Updated: May 1, 2026)
+
+| Milestone | Status | Target Date |
+|-----------|--------|-------------|
+| First PR merged | 🔄 In Progress | May 7 |
+| 5 PRs merged | ⏳ Pending | May 21 |
+| 10 PRs merged | ⏳ Pending | June 1 |
+| Falco contributor | 🔄 Building from source | May 14 |
+| LFX Application | ⏳ Pending | June 2 |
+
+### Projects I'm Contributing To
+- **Falco** - Runtime security detection engine
+- **Tailwind CSS** - Utility-first CSS framework
+- **Prisma** - Next-gen ORM for Node.js & TypeScript
+- **tRPC** - End-to-end typesafe APIs
+
+*Check my [contribution activity](https://github.com/swagatobauri?tab=overview) for real-time updates.*
+
+---
+
+## Tech Stack
+
+**Languages:** Python • TypeScript • JavaScript • C++ • Go *(learning)*  
+**AI/ML:** LangChain • LangGraph • GenAI • Scikit-learn • RAG  
+**Backend:** FastAPI • Node.js • Express • Celery • Redis  
+**Frontend:** React • Next.js • Tailwind CSS  
+**Databases:** PostgreSQL • MongoDB • Prisma ORM • ChromaDB  
+**DevOps:** Docker • Kubernetes *(learning)* • Git
+
+---
+
+## Competitive Programming
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/swagatobauri?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/swagatobauri/)
+
+**500+ DSA Problems Solved** | LeetCode Top 15% (1570+) | Codeforces 1050+
+
 </div>
 
-<p align="center">
-  <i>Let's connect and build amazing things together! 🚀</i>
-</p>
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swagatobauri&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=swagatobauri&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## What I'm Building Toward
+
+- **Short-term:** Become a recognized contributor in CNCF security projects
+- **Medium-term:** LFX Mentorship → Production contributions to Falco/Jaeger
+- **Long-term:** Maintainer role in cloud-native security tooling
+
+---
+
+## Recent Learning
+
+- **Go:** Concurrency patterns, goroutines, channels
+- **Cloud-Native:** Kubernetes, CNCF landscape, container runtime security
+- **Distributed Systems:** Event-driven architectures, pub/sub patterns
+- **Open Source:** PR workflow, code review etiquette, community engagement
+
+---
+
+## Beyond Code
+
+📷 **Award-winning photographer** - National & international recognition  
+🎵 **Indian classical flutist** - Trained in traditional music  
+🎬 **Content creator** - Photography, videography, editing
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to:
+- Discussing AI agents, distributed systems, or cloud security
+- Collaborating on open source projects
+- Sharing knowledge about LeetCode, DSA, or system design
+- Exploring opportunities in FAANG/startups
+
+**Reach out:** [LinkedIn](https://www.linkedin.com/in/swagatobauri/) • [Email](mailto:swagato731123@gmail.com) • [Twitter](https://twitter.com/swagatobauri)
+
+---
+
+<div align="center">
+
+### This Week's Contribution Activity
+
+<!--START_SECTION:activity-->
+*Tracking my daily open source contributions*
+<!--END_SECTION:activity-->
+
+---
+
+*"First solve the problem, then write the code."* — John Johnson
+
+![Profile Views](https://komarev.com/ghpvc/?username=swagatobauri&style=flat-square&color=blue)
+
+</div>
