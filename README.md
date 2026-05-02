@@ -5,7 +5,6 @@
 **Agentic AI Engineer | Full-Stack Developer | Open Source Contributor**
 
 Building autonomous systems that think, reason, and act.  
-Currently contributing to **CNCF security & observability projects**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swagatobauri/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swagatobauri)
@@ -75,15 +74,6 @@ Currently contributing to **CNCF security & observability projects**.
 
 </div>
 
----
-
-## What I'm Building Toward
-
-- **Short-term:** Become a recognized contributor in CNCF security projects
-- **Medium-term:** LFX Mentorship → Production contributions to Falco/Jaeger
-- **Long-term:** Maintainer role in cloud-native security tooling
-
----
 
 ## Recent Learning
 
