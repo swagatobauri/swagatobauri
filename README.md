@@ -16,15 +16,6 @@ Currently contributing to **CNCF security & observability projects**.
 
 ---
 
-## Current Focus (May 2026)
-
-**Preparing for LFX Mentorship Fall 2026**  
-  Contributing to **[Falco](https://github.com/falcosecurity/falco)** - Runtime Security for Cloud-Native  
-  Building production-grade AI agents and distributed systems  
-  Deep-diving into **Go** for cloud-native development
-
----
-
 ## 🚀 Featured Projects
 
 ### [TARS - Threat Analysis & Response System](https://github.com/swagatobauri/tars)
@@ -46,25 +37,7 @@ Currently contributing to **CNCF security & observability projects**.
 
 ---
 
-## 🌱 Open Source Journey
 
-**Goal:** Contribute to CNCF projects and become an LFX Mentee
-
-### Contribution Tracker (Updated: May 1, 2026)
-
-| Milestone | Status | Target Date |
-|-----------|--------|-------------|
-| First PR merged | 🔄 In Progress | May 7 |
-| 5 PRs merged | ⏳ Pending | May 21 |
-| 10 PRs merged | ⏳ Pending | June 1 |
-| Falco contributor | 🔄 Building from source | May 14 |
-| LFX Application | ⏳ Pending | June 2 |
-
-### Projects I'm Contributing To
-- **Falco** - Runtime security detection engine
-- **Tailwind CSS** - Utility-first CSS framework
-- **Prisma** - Next-gen ORM for Node.js & TypeScript
-- **tRPC** - End-to-end typesafe APIs
 
 *Check my [contribution activity](https://github.com/swagatobauri?tab=overview) for real-time updates.*
 
