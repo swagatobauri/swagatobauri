@@ -17,7 +17,7 @@ Building autonomous systems that think, reason, and act.
 
 ## 🚀 Featured Projects
 
-### [TARS - Threat Analysis & Response System]([https://github.com/swagatobauri/tars](https://github.com/swagatobauri/TARS---Threat-Analysis-Response-System))
+### [TARS - Threat Analysis & Response System](https://github.com/swagatobauri/TARS---Threat-Analysis-Response-System)
 **Autonomous cybersecurity agent** that detects and responds to threats in milliseconds.
 
 - 7-stage closed-loop defense pipeline (Observe → Analyze → Reason → Decide → Act → Learn → Validate)
@@ -25,7 +25,7 @@ Building autonomous systems that think, reason, and act.
 - 87-100% detection rate across all attack vectors
 - Tech: FastAPI, Celery, Redis, Isolation Forest, One-Class SVM, Groq LLM
 
-### [ULTRON - Multi-Agent Content System]([https://github.com/swagatobauri/ultron](https://github.com/swagatobauri/ULTRON_AGENCY))
+### [ULTRON - Multi-Agent Content System](https://github.com/swagatobauri/ULTRON_AGENCY)
 **6-node AI agent DAG** with real-time streaming and self-healing revision loops.
 
 - LangGraph StateGraph with conditional routing
