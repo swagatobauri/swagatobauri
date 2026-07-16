@@ -17,6 +17,10 @@ Building autonomous systems that think, reason, and act.
 
 ## 🚀 Featured Projects
 
+### KRKN - Chaos Engineering Ecosystem (CNCF)
+**Core Contributor**
+* Engineered the standalone `krknctl` scenario container image wrapper for the node-level network chaos module ([PR #354](https://github.com/krkn-chaos/krkn-hub/pull/354)).
+
 ### [TARS - Threat Analysis & Response System](https://github.com/swagatobauri/TARS---Threat-Analysis-Response-System)
 **Autonomous cybersecurity agent** that detects and responds to threats in milliseconds.
 
