@@ -2,9 +2,9 @@
 
 # Swagato Bauri
 
-**Agentic AI Engineer | Full-Stack Developer | Open Source Contributor**
+**Full Stack AI Developer | AI Systems & Cloud Infrastructure**
 
-Building autonomous systems that think, reason, and act.  
+Building autonomous AI agents, distributed backends, and cloud-native chaos tooling.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swagatobauri/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swagatobauri)
@@ -13,110 +13,104 @@ Building autonomous systems that think, reason, and act.
 
 </div>
 
----
+<br />
 
-## 🚀 Featured Projects
+<div align="center">
 
-### [TARS - Threat Analysis & Response System](https://github.com/swagatobauri/TARS---Threat-Analysis-Response-System)
-**Autonomous cybersecurity agent** that detects and responds to threats in milliseconds.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
 
-- 7-stage closed-loop defense pipeline (Observe → Analyze → Reason → Decide → Act → Learn → Validate)
-- Confidence-gated execution engine (Shadow, Human-Approval, Autonomous modes)
-- 87-100% detection rate across all attack vectors
-- Tech: FastAPI, Celery, Redis, Isolation Forest, One-Class SVM, Groq LLM
-
-### [ULTRON - Multi-Agent Content System](https://github.com/swagatobauri/ULTRON_AGENCY)
-**6-node AI agent DAG** with real-time streaming and self-healing revision loops.
-
-- LangGraph StateGraph with conditional routing
-- Non-blocking SSE streaming to frontend
-- Self-healing Critic ↔ Creator revision loop
-- Google Search API integration for grounded outputs
-- Tech: LangGraph, Flask, TypedDict, Python Queue
+</div>
 
 ---
 
 
+## 🌐 Open Source Contributions
 
-*contribution activity*
+#### 🐙 [Krkn Ecosystem (`krkn-chaos`)](https://github.com/krkn-chaos) — *Active Contributor*
 
-### KRKN - Chaos Engineering Ecosystem (CNCF)
-**Core Contributor**
-* Engineered the standalone `krknctl` scenario container image wrapper for the node-level network chaos module ([PR #354](https://github.com/krkn-chaos/krkn-hub/pull/354)).
+* **Node-Level Network Chaos Engine (`node-network-chaos`):** 
+  Engineered the `krknctl` scenario wrapper to simulate network degradation on Kubernetes nodes. Worked directly with **Linux `tc` (Traffic Control)** at the kernel layer to inject latency, packet loss, and bandwidth limits via `Dockerfile.template` and `run.sh` orchestration scripts. 
+  🔗 [`krkn-chaos/krkn-hub#354`](https://github.com/krkn-chaos/krkn-hub/pull/354)
 
----
-
-## Tech Stack
-
-**Languages:** Python • TypeScript • JavaScript • C++ • Go *(learning)*  
-**AI/ML:** LangChain • LangGraph • GenAI • Scikit-learn • RAG  
-**Backend:** FastAPI • Node.js • Express • Celery • Redis  
-**Frontend:** React • Next.js • Tailwind CSS  
-**Databases:** PostgreSQL • MongoDB • Prisma ORM • ChromaDB  
-**DevOps:** Docker • Kubernetes *(learning)* • Git
+* **Official Scenario Documentation:** 
+  Authored the production setup and parameter guides for the `node-network-chaos` scenario on the official project site.
+  🔗 [Live Docs (`krkn-chaos.dev`)](https://krkn-chaos.dev/docs/scenarios/network-chaos-ng-scenarios/node-network-chaos/#tab-krkn-hub)
 
 ---
 
-## Competitive Programming
+## 🚀 Featured AI Systems & Security Projects
+
+### 🛡️ [TARS - Threat Analysis & Response System](https://github.com/swagatobauri/TARS---Threat-Analysis-Response-System)
+**Autonomous cybersecurity agent** that detects and responds to threats in real-time.
+
+- **7-Stage Closed-Loop Pipeline:** `Observe` → `Analyze` → `Reason` → `Decide` → `Act` → `Learn` → `Validate`
+- **Execution Engine:** Confidence-gated supporting Shadow, Human-in-the-Loop, and Autonomous execution modes.
+- **Performance:** **87–100% detection rate** across simulated attack vectors.
+- **Tech Stack:** FastAPI, Celery, Redis, Isolation Forest, One-Class SVM, Groq LLM
+
+### 🤖 [ULTRON - Multi-Agent Content System](https://github.com/swagatobauri/ULTRON_AGENCY)
+**6-node AI agent DAG** featuring real-time streaming and self-healing revision loops.
+
+- **Orchestration:** LangGraph StateGraph with conditional routing and state preservation.
+- **Streaming:** Non-blocking Server-Sent Events (SSE) streaming pipeline to frontend.
+- **Self-Healing:** Continuous Critic ↔ Creator evaluation & revision loop.
+- **Tech Stack:** LangGraph, Flask, TypedDict, Python Queue, Google Search API
+
+---
+
+## 🛠️ Technical Capabilities
+
+| Domain | Tech & Tools |
+| :--- | :--- |
+| **Cloud-Native & DevOps** | Kubernetes, Docker, Container Runtimes, CNCF Tooling, Git, GitHub Actions |
+| **Languages** | Python, Go, TypeScript, JavaScript, C++ |
+| **AI & Agentic Frameworks** | LangGraph, LangChain, LLM Integration, RAG Pipelines, Scikit-learn |
+| **Backend & Distributed** | FastAPI, Node.js, Express, Celery, Redis, REST APIs |
+| **Databases & Vector** | PostgreSQL, MongoDB, Prisma ORM, ChromaDB |
+
+---
+
+## 📈 Competitive Programming
 
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/swagatobauri?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/swagatobauri/)
 
-**500+ DSA Problems Solved** | LeetCode Top 15% (1570+) | Codeforces 1050+
+**500+ DSA Problems Solved** | **LeetCode Top 15% (1570+)** | **Codeforces 1050+**
 
 </div>
 
 ---
 
-## GitHub Analytics
+## 🔬 Active Technical Focus
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swagatobauri&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=swagatobauri&theme=radical&hide_border=true)
-
-</div>
-
-
-## Recent Learning
-
-- **Go:** Concurrency patterns, goroutines, channels
-- **Cloud-Native:** Kubernetes, CNCF landscape, container runtime security
-- **Distributed Systems:** Event-driven architectures, pub/sub patterns
-- **Open Source:** PR workflow, code review etiquette, community engagement
+* **Cloud-Native Resilience:** Developing scenario wrappers, containerized testing harnesses, and automated doc sync systems in CNCF Krkn.
+* **Autonomous AI Agents:** Building deterministic evaluation loops, stateful DAGs, and real-time streaming backends.
 
 ---
 
-## Beyond Code
+## 🎨 Beyond Code
 
-📷 **Award-winning photographer** - National & international recognition  
-🎵 **Indian classical flutist** - Trained in traditional music  
-🎬 **Content creator** - Photography, videography, editing
+* 📷 **Award-winning photographer** — Recognized in national & international showcases
+* 🎵 **Indian classical flutist** — Trained in traditional classical music
+* 🎬 **Visual storyteller** — Photography, cinematography, and post-production
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to:
-- Discussing AI agents, distributed systems, or cloud security
-- Collaborating on open source projects
-- Sharing knowledge about LeetCode, DSA, or system design
-- Exploring opportunities in FAANG/startups
+I'm always open to discussing **Cloud-Native Architecture**, **CNCF Mentorships**, **Autonomous AI Agents**, or **Open Source Collaboration**.
 
 **Reach out:** [LinkedIn](https://www.linkedin.com/in/swagatobauri/) • [Email](mailto:swagato731123@gmail.com) • [Twitter](https://twitter.com/swagatobauri)
 
 ---
 
 <div align="center">
-
-### This Week's Contribution Activity
-
-<!--START_SECTION:activity-->
-*Tracking my daily open source contributions*
-<!--END_SECTION:activity-->
-
----
 
 *"First solve the problem, then write the code."* — John Johnson
 
