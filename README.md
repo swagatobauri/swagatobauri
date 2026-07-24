@@ -18,7 +18,7 @@ Building autonomous AI agents, distributed backends, and cloud-native chaos tool
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -68,7 +68,7 @@ Building autonomous AI agents, distributed backends, and cloud-native chaos tool
 | Domain | Tech & Tools |
 | :--- | :--- |
 | **Cloud-Native & DevOps** | Kubernetes, Docker, Container Runtimes, CNCF Tooling, Git, GitHub Actions |
-| **Languages** | Python, Go, TypeScript, JavaScript, C++ |
+| **Languages** | Python, TypeScript, JavaScript, C++ |
 | **AI & Agentic Frameworks** | LangGraph, LangChain, LLM Integration, RAG Pipelines, Scikit-learn |
 | **Backend & Distributed** | FastAPI, Node.js, Express, Celery, Redis, REST APIs |
 | **Databases & Vector** | PostgreSQL, MongoDB, Prisma ORM, ChromaDB |
@@ -89,7 +89,7 @@ Building autonomous AI agents, distributed backends, and cloud-native chaos tool
 
 ## 🔬 Active Technical Focus
 
-* **Cloud-Native Resilience:** Developing scenario wrappers, containerized testing harnesses, and automated doc sync systems in CNCF Krkn.
+* **Cloud-Native Resilience:** Developing scenario wrappers, containerized testing harnesses, and automated doc sync systems.
 * **Autonomous AI Agents:** Building deterministic evaluation loops, stateful DAGs, and real-time streaming backends.
 
 ---
@@ -104,7 +104,7 @@ Building autonomous AI agents, distributed backends, and cloud-native chaos tool
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing **Cloud-Native Architecture**, **CNCF Mentorships**, **Autonomous AI Agents**, or **Open Source Collaboration**.
+I'm always open to discussing **Cloud-Native Architecture**, **Autonomous AI Agents**, or **Open Source Collaboration**.
 
 **Reach out:** [LinkedIn](https://www.linkedin.com/in/swagatobauri/) • [Email](mailto:swagato731123@gmail.com) • [Twitter](https://twitter.com/swagatobauri)
 
