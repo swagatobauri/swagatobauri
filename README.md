@@ -4,7 +4,7 @@
 
 **Full Stack AI Developer | AI Systems & Cloud Infrastructure**
 
-Building autonomous AI agents, distributed backends, and cloud-native chaos tooling.
+*Building autonomous AI agents, distributed backends, and cloud-native chaos tooling.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swagatobauri/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swagatobauri)
@@ -28,18 +28,14 @@ Building autonomous AI agents, distributed backends, and cloud-native chaos tool
 
 ---
 
-
 ## 🌐 Open Source Contributions
 
 #### 🐙 [Krkn Ecosystem (`krkn-chaos`)](https://github.com/krkn-chaos) — *Active Contributor*
+> *Krkn is a chaos testing tool for Kubernetes clusters designed to ensure platform resiliency.*
 
-* **Node-Level Network Chaos Engine (`node-network-chaos`):** 
-  Engineered the `krknctl` scenario wrapper to simulate network degradation on Kubernetes nodes. Worked directly with **Linux `tc` (Traffic Control)** at the kernel layer to inject latency, packet loss, and bandwidth limits via `Dockerfile.template` and `run.sh` orchestration scripts. 
-  🔗 [`krkn-chaos/krkn-hub#354`](https://github.com/krkn-chaos/krkn-hub/pull/354)
+I actively contribute to this cloud-native ecosystem by engineering network degradation scenarios (working with Linux `tc`), resolving core evaluation engine bugs, and authoring official scenario documentation.
 
-* **Official Scenario Documentation:** 
-  Authored the production setup and parameter guides for the `node-network-chaos` scenario on the official project site.
-  🔗 [Live Docs (`krkn-chaos.dev`)](https://krkn-chaos.dev/docs/scenarios/network-chaos-ng-scenarios/node-network-chaos/#tab-krkn-hub)
+**🔗 Live Activity:** [Merged PRs](https://github.com/search?q=author%3Aswagatobauri+org%3Akrkn-chaos+type%3Apr+is%3Amerged) • [Issue Reports](https://github.com/search?q=author%3Aswagatobauri+org%3Akrkn-chaos+type%3Aissue) • [Official Docs](https://krkn-chaos.dev/docs/scenarios/network-chaos-ng-scenarios/node-network-chaos/#tab-krkn-hub)
 
 ---
 
