@@ -2,7 +2,7 @@
 
 # Swagato Bauri
 
-**Full Stack AI Developer | AI Systems & Cloud Infrastructure**
+**AI Engineer | AI Systems & Cloud Infrastructure**
 
 *Building autonomous AI agents, distributed backends, and cloud-native chaos tooling.*
 
